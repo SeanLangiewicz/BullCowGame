@@ -1,0 +1,6 @@
+﻿  Main.cpp
+  FBullCowGame.cpp
+b:\external drive backup\_software_development\repos\unreal engine\section_02\bullcowgame\fbullcowgame.cpp(1): warning C4068: unknown pragma
+  Generating Code...
+  BullCowGame.vcxproj -> B:\External drive backup\_Software_Development\repos\Unreal Engine\Section_02\Debug\BullCowGame.exe
+  BullCowGame.vcxproj -> B:\External drive backup\_Software_Development\repos\Unreal Engine\Section_02\Debug\BullCowGame.pdb (Full PDB)
